@@ -27,4 +27,4 @@
 console.log("Result: " + 18 - 9 ** 2);
 // NaN
 
-// Just a littel addition.
+// Just a little addition.
