@@ -30,3 +30,5 @@ console.log(thirdNumber);
 
 // 7.002197265625, ez jön ki a műveletek elvégzése után
 
+console.log(4%7/3);
+
